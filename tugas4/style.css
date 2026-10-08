@@ -108,6 +108,9 @@ nav {
     color: #ffffff;
 }
 
+.page-layout > aside p,
+.page-layout > aside h2,
+.card h3,
 .card h2 {
     color: #ffffff;
 }
